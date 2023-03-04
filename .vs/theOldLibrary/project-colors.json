@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ea76065-597c-4d14-bffe-9f2848469751": {
+      "ProjectGuid": "8ea76065-597c-4d14-bffe-9f2848469751",
+      "DisplayName": "theOldLibrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
